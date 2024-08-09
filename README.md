@@ -1,1 +1,1 @@
-# University-Admission-Prediction
+case study
